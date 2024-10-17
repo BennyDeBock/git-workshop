@@ -1,7 +1,8 @@
-Hobbies 'n stuff
+# My hobbies
 
 I code all day, I sleep and I repeat. Some others however:
 - Gaming
 - Ballet
 - Diving
+- Table tennis
 - etc...
