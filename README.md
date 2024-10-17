@@ -62,7 +62,7 @@ This will clone your repo from github to your local machine in a folder with the
 - [x] Change the H1 tag to something of your choosing
 - [x] Stage the change
 - [x] Commit the change
-- [ ] Create a file with the name `hobbies.md` and the content of hobbies.txt in the file
+- [x] Create a file with the name `hobbies.md` and the content of hobbies.txt in the file
 - [x] Stage the change
 - [x] Commit the change
 - [x] Push the changes to Github
@@ -85,9 +85,9 @@ Branches are an integral part to working with git. Not only do they allowed you 
 
 > You can verify whether this succeeded when you use `git status` in the terminal.
 
-- [ ] Make a small change to the `hobbies.md` file
-- [ ] Commit the change
-- [ ] Push to Github
+- [x] Make a small change to the `hobbies.md` file
+- [x] Commit the change
+- [x] Push to Github
 
 > You will get a fatal error saying `fatal: The current branch development has no upstream branch`. This is normal when the branch you have created does not exist on Github. To fix this, run `git push --set-upstream origin <name of branch>`. You only need to run this the first time you are pushing to the new branch.
 
@@ -95,19 +95,19 @@ Branches are an integral part to working with git. Not only do they allowed you 
 
 ### Step 5 - Merging branches
 
-- [ ] Make sure you are on the `development` branch
-- [ ] Create a branch called `hotfix-hobbies`
-- [ ] Make a change to the `hobbies.md` file and commit
-- [ ] Go back to the `development branch`
-- [ ] Use the merge command to merge `hotfix-hobbies` into development
+- [x] Make sure you are on the `development` branch
+- [x] Create a branch called `hotfix-hobbies`
+- [x] Make a change to the `hobbies.md` file and commit
+- [x] Go back to the `development branch`
+- [x] Use the merge command to merge `hotfix-hobbies` into development
 
 #### Updating branches
 
 Sometimes a branch that we are working on is behind the branch that it originally derived from. In this case, we can merge those changes into our local branch.
 
-- [ ] On the `development` branch, make a change in the `hobbies.md` file and commit this
-- [ ] Change to the `hotfix-hobbies` branch
-- [ ] Merge `development` into `hotfix-hobbies`
+- [x] On the `development` branch, make a change in the `hobbies.md` file and commit this
+- [x] Change to the `hotfix-hobbies` branch
+- [x] Merge `development` into `hotfix-hobbies`
 
 #### Resolving merge conflicts
 
@@ -115,19 +115,19 @@ Merging can be a very powerful tool and GIT does a lot of things for us. However
 
 Having a good branching strategy can alleviate a lot of these problems to begin with. However, now we will intentionally cause a merge conflict, and look at how to fix this.
 
-- [ ] On the `development` branch, change the first line of the `hobbies.md` file to the following and commit this:
+- [x] On the `development` branch, change the first line of the `hobbies.md` file to the following and commit this:
 
 ```md
 # A title
 ```
 
-- [ ] On the `hotfix-hobbies` branch, change the first line of the `hobbies.md` file to the following and commit this:
+- [x] On the `hotfix-hobbies` branch, change the first line of the `hobbies.md` file to the following and commit this:
 
 ```md
 # My Hobbies
 ```
 
-- [ ] Change back to the `development` branch and merge the `hotfix-hobbies` branch into it.
+- [x] Change back to the `development` branch and merge the `hotfix-hobbies` branch into it.
 
 ### Good to know - Branch protection
 
