@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # A Title
+=======
+# another title
+>>>>>>> hotfix-hobbies
 
 I code all day, I sleep and I repeat. Some others however:
 - Gaming
