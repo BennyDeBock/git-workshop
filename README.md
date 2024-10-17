@@ -47,7 +47,7 @@ This will clone your repo from github to your local machine in a folder with the
 
 ### Step 3 - Make your first commit
 - [x] Clone the repository
-- [ ] Change the H1 tag to something of your choosing
+- [x] Change the H1 tag to something of your choosing
 - [ ] Stage the change
 - [ ] Commit the change
 - [ ] Create a file with the name `hobbies.md` and the content of hobbies.txt in the file
