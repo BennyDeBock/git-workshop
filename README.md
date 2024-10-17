@@ -63,9 +63,9 @@ This will clone your repo from github to your local machine in a folder with the
 - [x] Stage the change
 - [x] Commit the change
 - [ ] Create a file with the name `hobbies.md` and the content of hobbies.txt in the file
-- [ ] Stage the change
-- [ ] Commit the change
-- [ ] Push the changes to Github
+- [x] Stage the change
+- [x] Commit the change
+- [x] Push the changes to Github
 
 > **Note:** If at any point you are unsure of the files you have staged for a commit, you can use `git status`. This command tells you on which branch you are, as well as which files have been modified/staged, how many commits have been done, etc...
 
@@ -80,8 +80,8 @@ Branches are an integral part to working with git. Not only do they allowed you 
 
 ### Step 4 - Create and switch to branch
 
-- [ ] Create a branch called `development`
-- [ ] Switch to the `development` branch
+- [x] Create a branch called `development`
+- [x] Switch to the `development` branch
 
 > You can verify whether this succeeded when you use `git status` in the terminal.
 
