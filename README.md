@@ -48,12 +48,12 @@ This will clone your repo from github to your local machine in a folder with the
 ### Step 3 - Make your first commit
 - [x] Clone the repository
 - [x] Change the H1 tag to something of your choosing
-- [ ] Stage the change
-- [ ] Commit the change
-- [ ] Create a file with the name `hobbies.md` and the content of hobbies.txt in the file
-- [ ] Stage the change
-- [ ] Commit the change
-- [ ] Push the changes to Github
+- [x] Stage the change
+- [x] Commit the change
+- [x] Create a file with the name `hobbies.md` and the content of hobbies.txt in the file
+- [x] Stage the change
+- [x] Commit the change
+- [x] Push the changes to Github
 
 > **Note:** If at any point you are unsure of the files you have staged for a commit, you can use `git status`. This command tells you on which branch you are, as well as which files have been modified/staged, how many commits have been done, etc...
 
